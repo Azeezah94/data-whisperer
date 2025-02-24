@@ -1,5 +1,7 @@
 Character Interaction Analysis in Pride and Prejudice Using a Knowledge Graph
+
 Project Description
+
 This project analyzes the interactions between characters in Pride and Prejudice by Jane Austen using a knowledge graph. The goal is to visualize and quantify how often characters interact throughout the novel. The analysis includes visualizing character relationships both within individual chapters and across the entire book, offering insights into the dynamic between key characters.
 
 Steps:
