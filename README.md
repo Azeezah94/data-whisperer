@@ -36,7 +36,7 @@ Clone this repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/pride-and-prejudice-character-interaction.git
+git clone https://github.com/data-whisperer/pride-and-prejudice-character-interaction.git
 Install the necessary Python dependencies:
 
 nginx
