@@ -36,14 +36,14 @@ Clone this repository:
 bash
 Copy
 Edit
-git clone https://github.com/data-whisperer/Knowledge-graph.git
+git clone [https://github.com/data-whisperer/Knowledge-graph.git](https://github.com/Azeezah94/data-whisperer.git)
 Install the necessary Python dependencies:
 
 nginx
 Copy
 Edit
 pip install -r requirements.txt
-Make sure to download the novel text from Project Gutenberg (or use the provided text file if included).
+Make sure to download the novel text from Project Gutenberg.
 
 Usage
 Run the main script to generate the interaction network:
